@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://68.media.tumblr.com/698f307f11c80538be7ac37602325c85/tumblr_mvc48hpSte1r3aw0oo1_500.jpg);
+    background-size: auto 119vh;
+    font-family: Courier New;
+    height: 119vh
+  }
+  
+  .menu {
+    background-color: whitesmoke;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    color: black
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: whitesmoke;
+    text-align: center
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    font-style: italic;
+    color: whitesmoke
+  }
